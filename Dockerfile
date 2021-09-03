@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:9.10
 
 ADD shell /home
 ADD configure.sh /configure.sh
