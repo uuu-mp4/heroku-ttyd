@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM debian:11.0
 
 ADD shell /home
 ADD configure.sh /configure.sh
