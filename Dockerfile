@@ -1,4 +1,4 @@
-FROM debian:9.13
+FROM ubuntu:18.04
 
 ADD shell /home
 ADD configure.sh /configure.sh
